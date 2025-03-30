@@ -25,3 +25,6 @@ links.forEach(link => {
        forms.classList.toggle("show-signup");
     })
 })
+
+
+alert('HELLO EVERYONE WELCOME TO MY PAGE');
